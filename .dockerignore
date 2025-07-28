@@ -1,0 +1,14 @@
+Output/
+Input/
+Expected/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+.vscode/
+.DS_Store
+Thumbs.db
+*.md
+!README.md
